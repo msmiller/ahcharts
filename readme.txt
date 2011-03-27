@@ -1,0 +1,1 @@
+Load the folder "ahcharts" onto the web server, point your browser to the index.php file there, done.
